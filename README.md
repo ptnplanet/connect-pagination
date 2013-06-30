@@ -1,4 +1,4 @@
-connect-pagination
+### connect-pagination
 
 Very simple and easy to use connect (express) middleware for parsing pagination query strings.
 
@@ -6,7 +6,7 @@ Very simple and easy to use connect (express) middleware for parsing pagination 
 
     $ npm install connect-pagination
 
-## Quick Start
+## Quick Start with Connect.js or Express.js
 
 ```js
 
