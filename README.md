@@ -31,7 +31,7 @@ connect()
 * `page` the default page number (defaults to `1`)
 * `ipp` the default number of items per page (defaults to `24`)
 
-### Teh `req.pagination` object
+### The `req.pagination` object
 
 Through `req.pagination` the following object becomes available:
 
