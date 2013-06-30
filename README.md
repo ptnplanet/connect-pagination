@@ -1,12 +1,12 @@
-### connect-pagination
+## connect-pagination
 
 Very simple and easy to use connect (express) middleware for parsing pagination query strings.
 
-## Installation
+### Installation
 
     $ npm install connect-pagination
 
-## Quick Start with Connect.js or Express.js
+### Quick Start with Connect.js or Express.js
 
 ```js
 
@@ -24,14 +24,14 @@ connect()
     });
 ```
 
-## Available Options
+### Available Options
 
 * `pageParam` specifies the query param for the page number (defaults to `page`)
 * `ippParam` specifies the query param for the number of items per page (defaults to `ipp`)
 * `page` the default page number (defaults to `1`)
 * `ipp` the default number of items per page (defaults to `24`)
 
-## `req.pagination`
+### Teh `req.pagination` object
 
 Through `req.pagination` the following object becomes available:
 
