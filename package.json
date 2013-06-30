@@ -14,5 +14,9 @@
         "name": "Philipp Nolte",
         "email": "Philipp Nolte <ptn@daslaboratorium.de>"
     },
-    "main": "index"
+    "main": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ptnplanet/connect-pagination.git"
+    }
 }
