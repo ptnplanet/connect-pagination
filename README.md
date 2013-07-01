@@ -39,3 +39,9 @@ Through `req.pagination` the following object becomes available:
 * `ipp` the current requested number of items per page
 * Function `buildQuery(page, ipp)` returns a query string like `?page=4&ipp=20`
 * Function `addQuery(url, page, ipp)` adds the pagination query to the url given
+
+### Changelog
+
+#### 1.0.2
+
+* The ```pagination``` object is now attached to ```res.locals``` so that it can be used in express remplates
