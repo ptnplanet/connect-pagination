@@ -1,6 +1,6 @@
 {
     "name": "connect-pagination",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Exposes a connect middleware to easily parse and create pagination query strings.",
     "keywords": [
         "pagination",
