@@ -3,3 +3,4 @@ npm-debug.log
 npm_debug.loh
 .DS_Store
 .idea
+.npmignore
