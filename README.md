@@ -43,6 +43,10 @@ Through `req.pagination` the following object becomes available:
 
 ### Changelog
 
+#### 1.0.5
+
+* Fixed bug that resulted in wrong query strings.
+
 #### 1.0.4
 
 * Add `optionsPresent` attribute to `req.pagination` object.
