@@ -36,7 +36,7 @@ connect()
 Through `req.pagination` the following object becomes available:
 
 * `page` the current requested page number
-* `pip` the current requested number of items per page
+* `ipp` the current requested number of items per page
 * `optionsPresent` `true` if there are pagination request parameters
 * Function `buildQuery(page, ipp)` returns a query string like `?page=4&ipp=20`
 * Function `addQuery(url, page, ipp)` adds the pagination query to the url given
